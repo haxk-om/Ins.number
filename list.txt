@@ -1,0 +1,3 @@
+[NOTE: place number range here in format: lower limit of phone number:upper limit of phone number]
+00989399999999:00989011111111
+00989919709999:00989101111111
